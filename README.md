@@ -18,6 +18,7 @@ Up Arrow key = he jump
 
 down Arrow key = do nothing :)
 
+
 I actually made only two stages:
 
   - The first with a 2 goblins and 1 wizard
