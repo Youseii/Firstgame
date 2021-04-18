@@ -22,3 +22,4 @@ I actually made only two stages:
  In this stage, you need to touch the head of the boss, but be carefull his fire dragon can beat you haha.
  
  
+ I wanted to put the game in git for no reason, so a day i gonna to try to finish this game... 
