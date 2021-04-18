@@ -17,7 +17,7 @@ I actually made only two stages:
  
  When the wizard is dead, the stage 2 begin:
  
-![](ForReadMe/stage2.png)
+![](ForReadMe/stage2.JPG)
  
  In this stage, you need to touch the head of the boss, but be carefull his fire dragon can beat you haha.
  
