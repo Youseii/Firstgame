@@ -6,13 +6,16 @@ In this game, you control a hero, who wants to beat somes monsters.
 
 <<<The game is finished, i'm a learning in shcool so you dont really have time, to finish the game.>>>
 
-<<Inputs: >>
-
+<<Inputs:>>
 
 space = shoot magic balls
+
 Right Arrow key = going Right
+
 Left Arrow key = going Left
+
 Up Arrow key = he jump
+
 down Arrow key = do nothing :)
 
 I actually made only two stages:
