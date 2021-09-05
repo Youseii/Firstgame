@@ -4,7 +4,7 @@ This game was made in 2019, it was my first time using pygame package.
 
 In this game, you control a hero, who wants to beat some monsters.
 
-<<<The game is finished, i'm a learning in shcool so you dont really have time, to finish the game.>>>
+<<<The game is currently not finished yet, because I'm a student so i dont have time to finish the game.>>>
 
 <<Inputs:>>
 
@@ -35,4 +35,4 @@ I actually made only two stages:
  In this stage, you need to touch the head of the boss, but be carefull his fire dragon can beat you haha.
  
  
- I wanted to put the game in git for no reason, so a day i gonna to try to finish this game... 
+ I wanted to put the game in git for no reason, so one day i'm going to try to finish the game... 
