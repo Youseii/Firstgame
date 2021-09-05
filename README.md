@@ -2,7 +2,7 @@
 Hey, this is my first game (simple game) only with python.
 This game was made in 2019, it was my first time using pygame package.
 
-In this game, you control a hero, who wants to beat somes monsters.
+In this game, you control a hero, who wants to beat some monsters.
 
 <<<The game is finished, i'm a learning in shcool so you dont really have time, to finish the game.>>>
 
