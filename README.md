@@ -1,6 +1,6 @@
 # Firstgame
 Hey, this is my first game (simple game) only with python.
-This game was made in 2019, it was my first time using pygame packets.
+This game was made in 2019, it was my first time using pygame package.
 
 In this game, you control a hero, who wants to beat somes monsters.
 
