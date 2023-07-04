@@ -35,4 +35,4 @@ I actually made only two stages:
  In this stage, you need to touch the head of the boss, but be carefull his fire dragon can beat you haha.
  
  
- I wanted to put the game in git for no reason, so one day i'm going to try to finish the game... 
+ I let this bad game and program just to see my progress in python through year
